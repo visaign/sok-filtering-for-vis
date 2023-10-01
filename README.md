@@ -5,4 +5,7 @@ In particular, this repository contains several sections:
 - images folder: This folder contains all images generated during analyzes for each taxonomic group identified in the article.
 - "supplemental_materials.pdf": This PDF file contains detailed supplementary information on the analyzes performed for each taxonomic group. It provides detailed explanations, results and interpretations additional to what is presented in the main article. It is a valuable resource for readers interested in a more complete understanding of the analyzes conducted.
 - "figures in the paper.pdf": This file contains all figures used in the article.
-- survus_local_code folder: The folder contains the full classification of papers through an interactive literature explorer developed using SurVis, which enables the exploration and analysis of the whole collection of publications.
+- survis_local_code folder: The folder contains the full classification of papers through an interactive literature explorer developed using SurVis, which enables the exploration and analysis of the whole collection of publications.
+
+  
+![Model](https://github.com/visaign/sok-filtering-for-vis/blob/main/survis_img.png)
