@@ -1,8 +1,8 @@
-# **SoK: A Systematic Review of Filtering in Information Visualization and Visual Analytics**
+# **A Systematization of Knowledge of Filtering in Information Visualization and Visual Analytics**
   To start SurVis, click the following link: [live explorer](https://visaign.github.io/sok-filtering-for-vis/)
 ![Model](https://github.com/visaign/sok-filtering-for-vis/blob/main/img_survis.png)
 
-This README file is intended to provide convenient and organized access to all supplementary material associated with the "SoK: A Systematic Review of Filtering in Information Visualization and Visual Analytics" article. This supplementary material was created to enrich and support the main article, allowing readers and researchers to examine in detail the analyses, visualizations, and other relevant elements related to the research, and to support reproducibility of the analyses and results.
+This README file is intended to provide convenient and organized access to all supplementary material associated with the "A Systematization of Knowledge of Filtering in Information Visualization and Visual Analytics" article. This supplementary material was created to enrich and support the main article, allowing readers and researchers to examine in detail the analyses, visualizations, and other relevant elements related to the research, and to support reproducibility of the analyses and results.
 
 In particular, this repository contains several sections:
 - code folder: Inside this folder, you will find all the scripts and code used in data analysis. These scripts are designed to be executed using as input the "papers.csv" file, which contains all the papers that were cataloged during the search. Together they support the reproducibility of the results discussed in the paper.
